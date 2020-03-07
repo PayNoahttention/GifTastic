@@ -1,5 +1,9 @@
 body {
     background-image: url("../images/pk1.jpg");
     font-family: 'Press Start 2P', cursive;
+    text-align: center;
 }
 
+h1 {
+    font-size: 24px;
+}
